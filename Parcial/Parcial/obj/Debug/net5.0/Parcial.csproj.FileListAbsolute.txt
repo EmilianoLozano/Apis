@@ -1,0 +1,67 @@
+c:\Users\emilo\OneDrive\Escritorio\practicas HTML\Parcial\Parcial\bin\Debug\net5.0\appsettings.Development.json
+c:\Users\emilo\OneDrive\Escritorio\practicas HTML\Parcial\Parcial\bin\Debug\net5.0\appsettings.json
+c:\Users\emilo\OneDrive\Escritorio\practicas HTML\Parcial\Parcial\bin\Debug\net5.0\Parcial.exe
+c:\Users\emilo\OneDrive\Escritorio\practicas HTML\Parcial\Parcial\bin\Debug\net5.0\Parcial.deps.json
+c:\Users\emilo\OneDrive\Escritorio\practicas HTML\Parcial\Parcial\bin\Debug\net5.0\Parcial.runtimeconfig.json
+c:\Users\emilo\OneDrive\Escritorio\practicas HTML\Parcial\Parcial\bin\Debug\net5.0\Parcial.runtimeconfig.dev.json
+c:\Users\emilo\OneDrive\Escritorio\practicas HTML\Parcial\Parcial\bin\Debug\net5.0\Parcial.dll
+c:\Users\emilo\OneDrive\Escritorio\practicas HTML\Parcial\Parcial\bin\Debug\net5.0\ref\Parcial.dll
+c:\Users\emilo\OneDrive\Escritorio\practicas HTML\Parcial\Parcial\bin\Debug\net5.0\Parcial.pdb
+c:\Users\emilo\OneDrive\Escritorio\practicas HTML\Parcial\Parcial\bin\Debug\net5.0\Microsoft.OpenApi.dll
+c:\Users\emilo\OneDrive\Escritorio\practicas HTML\Parcial\Parcial\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+c:\Users\emilo\OneDrive\Escritorio\practicas HTML\Parcial\Parcial\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+c:\Users\emilo\OneDrive\Escritorio\practicas HTML\Parcial\Parcial\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+c:\Users\emilo\OneDrive\Escritorio\practicas HTML\Parcial\Parcial\obj\Debug\net5.0\Parcial.csprojAssemblyReference.cache
+c:\Users\emilo\OneDrive\Escritorio\practicas HTML\Parcial\Parcial\obj\Debug\net5.0\Parcial.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\emilo\OneDrive\Escritorio\practicas HTML\Parcial\Parcial\obj\Debug\net5.0\Parcial.AssemblyInfoInputs.cache
+c:\Users\emilo\OneDrive\Escritorio\practicas HTML\Parcial\Parcial\obj\Debug\net5.0\Parcial.AssemblyInfo.cs
+c:\Users\emilo\OneDrive\Escritorio\practicas HTML\Parcial\Parcial\obj\Debug\net5.0\Parcial.csproj.CoreCompileInputs.cache
+c:\Users\emilo\OneDrive\Escritorio\practicas HTML\Parcial\Parcial\obj\Debug\net5.0\Parcial.MvcApplicationPartsAssemblyInfo.cs
+c:\Users\emilo\OneDrive\Escritorio\practicas HTML\Parcial\Parcial\obj\Debug\net5.0\Parcial.MvcApplicationPartsAssemblyInfo.cache
+c:\Users\emilo\OneDrive\Escritorio\practicas HTML\Parcial\Parcial\obj\Debug\net5.0\staticwebassets\Parcial.StaticWebAssets.Manifest.cache
+c:\Users\emilo\OneDrive\Escritorio\practicas HTML\Parcial\Parcial\obj\Debug\net5.0\staticwebassets\Parcial.StaticWebAssets.xml
+c:\Users\emilo\OneDrive\Escritorio\practicas HTML\Parcial\Parcial\obj\Debug\net5.0\scopedcss\bundle\Parcial.styles.css
+c:\Users\emilo\OneDrive\Escritorio\practicas HTML\Parcial\Parcial\obj\Debug\net5.0\Parcial.RazorTargetAssemblyInfo.cache
+c:\Users\emilo\OneDrive\Escritorio\practicas HTML\Parcial\Parcial\obj\Debug\net5.0\Parcial.csproj.CopyComplete
+c:\Users\emilo\OneDrive\Escritorio\practicas HTML\Parcial\Parcial\obj\Debug\net5.0\Parcial.dll
+c:\Users\emilo\OneDrive\Escritorio\practicas HTML\Parcial\Parcial\obj\Debug\net5.0\ref\Parcial.dll
+c:\Users\emilo\OneDrive\Escritorio\practicas HTML\Parcial\Parcial\obj\Debug\net5.0\Parcial.pdb
+c:\Users\emilo\OneDrive\Escritorio\practicas HTML\Parcial\Parcial\obj\Debug\net5.0\Parcial.genruntimeconfig.cache
+C:\Users\emilo\OneDrive\Escritorio\Apis\Parcial\Parcial\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\emilo\OneDrive\Escritorio\Apis\Parcial\Parcial\bin\Debug\net5.0\appsettings.json
+C:\Users\emilo\OneDrive\Escritorio\Apis\Parcial\Parcial\bin\Debug\net5.0\Parcial.exe
+C:\Users\emilo\OneDrive\Escritorio\Apis\Parcial\Parcial\bin\Debug\net5.0\Parcial.deps.json
+C:\Users\emilo\OneDrive\Escritorio\Apis\Parcial\Parcial\bin\Debug\net5.0\Parcial.runtimeconfig.json
+C:\Users\emilo\OneDrive\Escritorio\Apis\Parcial\Parcial\bin\Debug\net5.0\Parcial.runtimeconfig.dev.json
+C:\Users\emilo\OneDrive\Escritorio\Apis\Parcial\Parcial\bin\Debug\net5.0\Parcial.dll
+C:\Users\emilo\OneDrive\Escritorio\Apis\Parcial\Parcial\bin\Debug\net5.0\ref\Parcial.dll
+C:\Users\emilo\OneDrive\Escritorio\Apis\Parcial\Parcial\bin\Debug\net5.0\Parcial.pdb
+C:\Users\emilo\OneDrive\Escritorio\Apis\Parcial\Parcial\bin\Debug\net5.0\Humanizer.dll
+C:\Users\emilo\OneDrive\Escritorio\Apis\Parcial\Parcial\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\emilo\OneDrive\Escritorio\Apis\Parcial\Parcial\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\emilo\OneDrive\Escritorio\Apis\Parcial\Parcial\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\emilo\OneDrive\Escritorio\Apis\Parcial\Parcial\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\emilo\OneDrive\Escritorio\Apis\Parcial\Parcial\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\emilo\OneDrive\Escritorio\Apis\Parcial\Parcial\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\emilo\OneDrive\Escritorio\Apis\Parcial\Parcial\bin\Debug\net5.0\Npgsql.dll
+C:\Users\emilo\OneDrive\Escritorio\Apis\Parcial\Parcial\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\emilo\OneDrive\Escritorio\Apis\Parcial\Parcial\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\emilo\OneDrive\Escritorio\Apis\Parcial\Parcial\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\emilo\OneDrive\Escritorio\Apis\Parcial\Parcial\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\emilo\OneDrive\Escritorio\Apis\Parcial\Parcial\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\emilo\OneDrive\Escritorio\Apis\Parcial\Parcial\obj\Debug\net5.0\Parcial.csprojAssemblyReference.cache
+C:\Users\emilo\OneDrive\Escritorio\Apis\Parcial\Parcial\obj\Debug\net5.0\Parcial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emilo\OneDrive\Escritorio\Apis\Parcial\Parcial\obj\Debug\net5.0\Parcial.AssemblyInfoInputs.cache
+C:\Users\emilo\OneDrive\Escritorio\Apis\Parcial\Parcial\obj\Debug\net5.0\Parcial.AssemblyInfo.cs
+C:\Users\emilo\OneDrive\Escritorio\Apis\Parcial\Parcial\obj\Debug\net5.0\Parcial.csproj.CoreCompileInputs.cache
+C:\Users\emilo\OneDrive\Escritorio\Apis\Parcial\Parcial\obj\Debug\net5.0\Parcial.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\emilo\OneDrive\Escritorio\Apis\Parcial\Parcial\obj\Debug\net5.0\Parcial.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\emilo\OneDrive\Escritorio\Apis\Parcial\Parcial\obj\Debug\net5.0\staticwebassets\Parcial.StaticWebAssets.Manifest.cache
+C:\Users\emilo\OneDrive\Escritorio\Apis\Parcial\Parcial\obj\Debug\net5.0\staticwebassets\Parcial.StaticWebAssets.xml
+C:\Users\emilo\OneDrive\Escritorio\Apis\Parcial\Parcial\obj\Debug\net5.0\scopedcss\bundle\Parcial.styles.css
+C:\Users\emilo\OneDrive\Escritorio\Apis\Parcial\Parcial\obj\Debug\net5.0\Parcial.RazorTargetAssemblyInfo.cache
+C:\Users\emilo\OneDrive\Escritorio\Apis\Parcial\Parcial\obj\Debug\net5.0\Parcial.csproj.CopyComplete
+C:\Users\emilo\OneDrive\Escritorio\Apis\Parcial\Parcial\obj\Debug\net5.0\Parcial.dll
+C:\Users\emilo\OneDrive\Escritorio\Apis\Parcial\Parcial\obj\Debug\net5.0\ref\Parcial.dll
+C:\Users\emilo\OneDrive\Escritorio\Apis\Parcial\Parcial\obj\Debug\net5.0\Parcial.pdb
+C:\Users\emilo\OneDrive\Escritorio\Apis\Parcial\Parcial\obj\Debug\net5.0\Parcial.genruntimeconfig.cache

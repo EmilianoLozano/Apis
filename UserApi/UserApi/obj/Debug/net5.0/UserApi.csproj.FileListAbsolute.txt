@@ -1,0 +1,141 @@
+/Users/ponzi/Downloads/UserApi/UserApi/bin/Debug/net5.0/appsettings.Development.json
+/Users/ponzi/Downloads/UserApi/UserApi/bin/Debug/net5.0/appsettings.json
+/Users/ponzi/Downloads/UserApi/UserApi/bin/Debug/net5.0/UserApi.deps.json
+/Users/ponzi/Downloads/UserApi/UserApi/bin/Debug/net5.0/UserApi.runtimeconfig.json
+/Users/ponzi/Downloads/UserApi/UserApi/bin/Debug/net5.0/UserApi.runtimeconfig.dev.json
+/Users/ponzi/Downloads/UserApi/UserApi/bin/Debug/net5.0/UserApi.dll
+/Users/ponzi/Downloads/UserApi/UserApi/bin/Debug/net5.0/ref/UserApi.dll
+/Users/ponzi/Downloads/UserApi/UserApi/bin/Debug/net5.0/UserApi.pdb
+/Users/ponzi/Downloads/UserApi/UserApi/bin/Debug/net5.0/Microsoft.OpenApi.dll
+/Users/ponzi/Downloads/UserApi/UserApi/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/ponzi/Downloads/UserApi/UserApi/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/ponzi/Downloads/UserApi/UserApi/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/ponzi/Downloads/UserApi/UserApi/obj/Debug/net5.0/UserApi.csprojAssemblyReference.cache
+/Users/ponzi/Downloads/UserApi/UserApi/obj/Debug/net5.0/UserApi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ponzi/Downloads/UserApi/UserApi/obj/Debug/net5.0/UserApi.AssemblyInfoInputs.cache
+/Users/ponzi/Downloads/UserApi/UserApi/obj/Debug/net5.0/UserApi.AssemblyInfo.cs
+/Users/ponzi/Downloads/UserApi/UserApi/obj/Debug/net5.0/UserApi.csproj.CoreCompileInputs.cache
+/Users/ponzi/Downloads/UserApi/UserApi/obj/Debug/net5.0/UserApi.MvcApplicationPartsAssemblyInfo.cs
+/Users/ponzi/Downloads/UserApi/UserApi/obj/Debug/net5.0/UserApi.MvcApplicationPartsAssemblyInfo.cache
+/Users/ponzi/Downloads/UserApi/UserApi/obj/Debug/net5.0/staticwebassets/UserApi.StaticWebAssets.Manifest.cache
+/Users/ponzi/Downloads/UserApi/UserApi/obj/Debug/net5.0/staticwebassets/UserApi.StaticWebAssets.xml
+/Users/ponzi/Downloads/UserApi/UserApi/obj/Debug/net5.0/scopedcss/bundle/UserApi.styles.css
+/Users/ponzi/Downloads/UserApi/UserApi/obj/Debug/net5.0/UserApi.RazorTargetAssemblyInfo.cache
+/Users/ponzi/Downloads/UserApi/UserApi/obj/Debug/net5.0/UserApi.csproj.CopyComplete
+/Users/ponzi/Downloads/UserApi/UserApi/obj/Debug/net5.0/UserApi.dll
+/Users/ponzi/Downloads/UserApi/UserApi/obj/Debug/net5.0/ref/UserApi.dll
+/Users/ponzi/Downloads/UserApi/UserApi/obj/Debug/net5.0/UserApi.pdb
+/Users/ponzi/Downloads/UserApi/UserApi/obj/Debug/net5.0/UserApi.genruntimeconfig.cache
+/Users/Datos Ponzi/02 PROGRAMACION/UserApi/UserApi/bin/Debug/net5.0/appsettings.Development.json
+/Users/Datos Ponzi/02 PROGRAMACION/UserApi/UserApi/bin/Debug/net5.0/appsettings.json
+/Users/Datos Ponzi/02 PROGRAMACION/UserApi/UserApi/bin/Debug/net5.0/UserApi.deps.json
+/Users/Datos Ponzi/02 PROGRAMACION/UserApi/UserApi/bin/Debug/net5.0/UserApi.runtimeconfig.json
+/Users/Datos Ponzi/02 PROGRAMACION/UserApi/UserApi/bin/Debug/net5.0/UserApi.runtimeconfig.dev.json
+/Users/Datos Ponzi/02 PROGRAMACION/UserApi/UserApi/bin/Debug/net5.0/UserApi.dll
+/Users/Datos Ponzi/02 PROGRAMACION/UserApi/UserApi/bin/Debug/net5.0/ref/UserApi.dll
+/Users/Datos Ponzi/02 PROGRAMACION/UserApi/UserApi/bin/Debug/net5.0/UserApi.pdb
+/Users/Datos Ponzi/02 PROGRAMACION/UserApi/UserApi/bin/Debug/net5.0/Microsoft.OpenApi.dll
+/Users/Datos Ponzi/02 PROGRAMACION/UserApi/UserApi/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/Datos Ponzi/02 PROGRAMACION/UserApi/UserApi/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/Datos Ponzi/02 PROGRAMACION/UserApi/UserApi/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/Datos Ponzi/02 PROGRAMACION/UserApi/UserApi/obj/Debug/net5.0/UserApi.csprojAssemblyReference.cache
+/Users/Datos Ponzi/02 PROGRAMACION/UserApi/UserApi/obj/Debug/net5.0/UserApi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Datos Ponzi/02 PROGRAMACION/UserApi/UserApi/obj/Debug/net5.0/UserApi.AssemblyInfoInputs.cache
+/Users/Datos Ponzi/02 PROGRAMACION/UserApi/UserApi/obj/Debug/net5.0/UserApi.AssemblyInfo.cs
+/Users/Datos Ponzi/02 PROGRAMACION/UserApi/UserApi/obj/Debug/net5.0/UserApi.csproj.CoreCompileInputs.cache
+/Users/Datos Ponzi/02 PROGRAMACION/UserApi/UserApi/obj/Debug/net5.0/UserApi.MvcApplicationPartsAssemblyInfo.cs
+/Users/Datos Ponzi/02 PROGRAMACION/UserApi/UserApi/obj/Debug/net5.0/UserApi.MvcApplicationPartsAssemblyInfo.cache
+/Users/Datos Ponzi/02 PROGRAMACION/UserApi/UserApi/obj/Debug/net5.0/staticwebassets/UserApi.StaticWebAssets.Manifest.cache
+/Users/Datos Ponzi/02 PROGRAMACION/UserApi/UserApi/obj/Debug/net5.0/staticwebassets/UserApi.StaticWebAssets.xml
+/Users/Datos Ponzi/02 PROGRAMACION/UserApi/UserApi/obj/Debug/net5.0/scopedcss/bundle/UserApi.styles.css
+/Users/Datos Ponzi/02 PROGRAMACION/UserApi/UserApi/obj/Debug/net5.0/UserApi.RazorTargetAssemblyInfo.cache
+/Users/Datos Ponzi/02 PROGRAMACION/UserApi/UserApi/obj/Debug/net5.0/UserApi.csproj.CopyComplete
+/Users/Datos Ponzi/02 PROGRAMACION/UserApi/UserApi/obj/Debug/net5.0/UserApi.dll
+/Users/Datos Ponzi/02 PROGRAMACION/UserApi/UserApi/obj/Debug/net5.0/ref/UserApi.dll
+/Users/Datos Ponzi/02 PROGRAMACION/UserApi/UserApi/obj/Debug/net5.0/UserApi.pdb
+/Users/Datos Ponzi/02 PROGRAMACION/UserApi/UserApi/obj/Debug/net5.0/UserApi.genruntimeconfig.cache
+/Users/Datos Ponzi/02 PROGRAMACION/UserApi/UserApi/bin/Debug/net5.0/Humanizer.dll
+/Users/Datos Ponzi/02 PROGRAMACION/UserApi/UserApi/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/Users/Datos Ponzi/02 PROGRAMACION/UserApi/UserApi/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/Datos Ponzi/02 PROGRAMACION/UserApi/UserApi/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/Datos Ponzi/02 PROGRAMACION/UserApi/UserApi/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/Datos Ponzi/02 PROGRAMACION/UserApi/UserApi/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/Datos Ponzi/02 PROGRAMACION/UserApi/UserApi/bin/Debug/net5.0/Npgsql.dll
+/Users/Datos Ponzi/02 PROGRAMACION/UserApi/UserApi/bin/Debug/net5.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/Users/Datos Ponzi/02 PROGRAMACION/UserApi/UserApi/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+C:\Users\emilo\OneDrive\Escritorio\UserApi\UserApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\emilo\OneDrive\Escritorio\UserApi\UserApi\bin\Debug\net5.0\appsettings.json
+C:\Users\emilo\OneDrive\Escritorio\UserApi\UserApi\bin\Debug\net5.0\UserApi.exe
+c:\Users\emilo\OneDrive\Escritorio\UserApi\UserApi\bin\Debug\net5.0\UserApi.deps.json
+c:\Users\emilo\OneDrive\Escritorio\UserApi\UserApi\bin\Debug\net5.0\UserApi.runtimeconfig.json
+c:\Users\emilo\OneDrive\Escritorio\UserApi\UserApi\bin\Debug\net5.0\UserApi.runtimeconfig.dev.json
+C:\Users\emilo\OneDrive\Escritorio\UserApi\UserApi\bin\Debug\net5.0\UserApi.dll
+c:\Users\emilo\OneDrive\Escritorio\UserApi\UserApi\bin\Debug\net5.0\ref\UserApi.dll
+C:\Users\emilo\OneDrive\Escritorio\UserApi\UserApi\bin\Debug\net5.0\UserApi.pdb
+C:\Users\emilo\OneDrive\Escritorio\UserApi\UserApi\bin\Debug\net5.0\Humanizer.dll
+C:\Users\emilo\OneDrive\Escritorio\UserApi\UserApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\emilo\OneDrive\Escritorio\UserApi\UserApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\emilo\OneDrive\Escritorio\UserApi\UserApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\emilo\OneDrive\Escritorio\UserApi\UserApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\emilo\OneDrive\Escritorio\UserApi\UserApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\emilo\OneDrive\Escritorio\UserApi\UserApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\emilo\OneDrive\Escritorio\UserApi\UserApi\bin\Debug\net5.0\Npgsql.dll
+C:\Users\emilo\OneDrive\Escritorio\UserApi\UserApi\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\emilo\OneDrive\Escritorio\UserApi\UserApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\emilo\OneDrive\Escritorio\UserApi\UserApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\emilo\OneDrive\Escritorio\UserApi\UserApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\emilo\OneDrive\Escritorio\UserApi\UserApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\emilo\OneDrive\Escritorio\UserApi\UserApi\obj\Debug\net5.0\UserApi.csprojAssemblyReference.cache
+C:\Users\emilo\OneDrive\Escritorio\UserApi\UserApi\obj\Debug\net5.0\UserApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emilo\OneDrive\Escritorio\UserApi\UserApi\obj\Debug\net5.0\UserApi.AssemblyInfoInputs.cache
+C:\Users\emilo\OneDrive\Escritorio\UserApi\UserApi\obj\Debug\net5.0\UserApi.AssemblyInfo.cs
+C:\Users\emilo\OneDrive\Escritorio\UserApi\UserApi\obj\Debug\net5.0\UserApi.csproj.CoreCompileInputs.cache
+C:\Users\emilo\OneDrive\Escritorio\UserApi\UserApi\obj\Debug\net5.0\UserApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\emilo\OneDrive\Escritorio\UserApi\UserApi\obj\Debug\net5.0\UserApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\emilo\OneDrive\Escritorio\UserApi\UserApi\obj\Debug\net5.0\staticwebassets\UserApi.StaticWebAssets.Manifest.cache
+C:\Users\emilo\OneDrive\Escritorio\UserApi\UserApi\obj\Debug\net5.0\staticwebassets\UserApi.StaticWebAssets.xml
+C:\Users\emilo\OneDrive\Escritorio\UserApi\UserApi\obj\Debug\net5.0\scopedcss\bundle\UserApi.styles.css
+C:\Users\emilo\OneDrive\Escritorio\UserApi\UserApi\obj\Debug\net5.0\UserApi.RazorTargetAssemblyInfo.cache
+c:\Users\emilo\OneDrive\Escritorio\UserApi\UserApi\obj\Debug\net5.0\UserApi.csproj.CopyComplete
+C:\Users\emilo\OneDrive\Escritorio\UserApi\UserApi\obj\Debug\net5.0\UserApi.dll
+C:\Users\emilo\OneDrive\Escritorio\UserApi\UserApi\obj\Debug\net5.0\ref\UserApi.dll
+C:\Users\emilo\OneDrive\Escritorio\UserApi\UserApi\obj\Debug\net5.0\UserApi.pdb
+c:\Users\emilo\OneDrive\Escritorio\UserApi\UserApi\obj\Debug\net5.0\UserApi.genruntimeconfig.cache
+C:\Users\emilo\OneDrive\Escritorio\Apis\UserApi\UserApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\emilo\OneDrive\Escritorio\Apis\UserApi\UserApi\bin\Debug\net5.0\appsettings.json
+C:\Users\emilo\OneDrive\Escritorio\Apis\UserApi\UserApi\bin\Debug\net5.0\UserApi.exe
+c:\Users\emilo\OneDrive\Escritorio\Apis\UserApi\UserApi\bin\Debug\net5.0\UserApi.deps.json
+c:\Users\emilo\OneDrive\Escritorio\Apis\UserApi\UserApi\bin\Debug\net5.0\UserApi.runtimeconfig.json
+c:\Users\emilo\OneDrive\Escritorio\Apis\UserApi\UserApi\bin\Debug\net5.0\UserApi.runtimeconfig.dev.json
+C:\Users\emilo\OneDrive\Escritorio\Apis\UserApi\UserApi\bin\Debug\net5.0\UserApi.dll
+c:\Users\emilo\OneDrive\Escritorio\Apis\UserApi\UserApi\bin\Debug\net5.0\ref\UserApi.dll
+C:\Users\emilo\OneDrive\Escritorio\Apis\UserApi\UserApi\bin\Debug\net5.0\UserApi.pdb
+C:\Users\emilo\OneDrive\Escritorio\Apis\UserApi\UserApi\bin\Debug\net5.0\Humanizer.dll
+C:\Users\emilo\OneDrive\Escritorio\Apis\UserApi\UserApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\emilo\OneDrive\Escritorio\Apis\UserApi\UserApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\emilo\OneDrive\Escritorio\Apis\UserApi\UserApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\emilo\OneDrive\Escritorio\Apis\UserApi\UserApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\emilo\OneDrive\Escritorio\Apis\UserApi\UserApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\emilo\OneDrive\Escritorio\Apis\UserApi\UserApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\emilo\OneDrive\Escritorio\Apis\UserApi\UserApi\bin\Debug\net5.0\Npgsql.dll
+C:\Users\emilo\OneDrive\Escritorio\Apis\UserApi\UserApi\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\emilo\OneDrive\Escritorio\Apis\UserApi\UserApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\emilo\OneDrive\Escritorio\Apis\UserApi\UserApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\emilo\OneDrive\Escritorio\Apis\UserApi\UserApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\emilo\OneDrive\Escritorio\Apis\UserApi\UserApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\emilo\OneDrive\Escritorio\Apis\UserApi\UserApi\obj\Debug\net5.0\UserApi.csprojAssemblyReference.cache
+C:\Users\emilo\OneDrive\Escritorio\Apis\UserApi\UserApi\obj\Debug\net5.0\UserApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emilo\OneDrive\Escritorio\Apis\UserApi\UserApi\obj\Debug\net5.0\UserApi.AssemblyInfoInputs.cache
+C:\Users\emilo\OneDrive\Escritorio\Apis\UserApi\UserApi\obj\Debug\net5.0\UserApi.AssemblyInfo.cs
+C:\Users\emilo\OneDrive\Escritorio\Apis\UserApi\UserApi\obj\Debug\net5.0\UserApi.csproj.CoreCompileInputs.cache
+C:\Users\emilo\OneDrive\Escritorio\Apis\UserApi\UserApi\obj\Debug\net5.0\UserApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\emilo\OneDrive\Escritorio\Apis\UserApi\UserApi\obj\Debug\net5.0\UserApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\emilo\OneDrive\Escritorio\Apis\UserApi\UserApi\obj\Debug\net5.0\staticwebassets\UserApi.StaticWebAssets.Manifest.cache
+C:\Users\emilo\OneDrive\Escritorio\Apis\UserApi\UserApi\obj\Debug\net5.0\staticwebassets\UserApi.StaticWebAssets.xml
+C:\Users\emilo\OneDrive\Escritorio\Apis\UserApi\UserApi\obj\Debug\net5.0\scopedcss\bundle\UserApi.styles.css
+C:\Users\emilo\OneDrive\Escritorio\Apis\UserApi\UserApi\obj\Debug\net5.0\UserApi.RazorTargetAssemblyInfo.cache
+c:\Users\emilo\OneDrive\Escritorio\Apis\UserApi\UserApi\obj\Debug\net5.0\UserApi.csproj.CopyComplete
+C:\Users\emilo\OneDrive\Escritorio\Apis\UserApi\UserApi\obj\Debug\net5.0\UserApi.dll
+C:\Users\emilo\OneDrive\Escritorio\Apis\UserApi\UserApi\obj\Debug\net5.0\ref\UserApi.dll
+C:\Users\emilo\OneDrive\Escritorio\Apis\UserApi\UserApi\obj\Debug\net5.0\UserApi.pdb
+c:\Users\emilo\OneDrive\Escritorio\Apis\UserApi\UserApi\obj\Debug\net5.0\UserApi.genruntimeconfig.cache

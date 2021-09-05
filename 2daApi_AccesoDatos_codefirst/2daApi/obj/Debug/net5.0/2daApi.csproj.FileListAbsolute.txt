@@ -1,0 +1,105 @@
+C:\Users\emilo\OneDrive\Escritorio\practicas HTML\Bootstrap\2daApi\2daApi\obj\Debug\net5.0\2daApi.csprojAssemblyReference.cache
+C:\Users\emilo\OneDrive\Escritorio\practicas HTML\Bootstrap\2daApi\2daApi\obj\Debug\net5.0\2daApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emilo\OneDrive\Escritorio\practicas HTML\Bootstrap\2daApi\2daApi\obj\Debug\net5.0\2daApi.AssemblyInfoInputs.cache
+C:\Users\emilo\OneDrive\Escritorio\practicas HTML\Bootstrap\2daApi\2daApi\obj\Debug\net5.0\2daApi.AssemblyInfo.cs
+C:\Users\emilo\OneDrive\Escritorio\practicas HTML\Bootstrap\2daApi\2daApi\obj\Debug\net5.0\2daApi.csproj.CoreCompileInputs.cache
+C:\Users\emilo\OneDrive\Escritorio\practicas HTML\Bootstrap\2daApi\2daApi\obj\Debug\net5.0\2daApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\emilo\OneDrive\Escritorio\practicas HTML\Bootstrap\2daApi\2daApi\obj\Debug\net5.0\2daApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\emilo\OneDrive\Escritorio\practicas HTML\Bootstrap\2daApi\2daApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\emilo\OneDrive\Escritorio\practicas HTML\Bootstrap\2daApi\2daApi\bin\Debug\net5.0\appsettings.json
+C:\Users\emilo\OneDrive\Escritorio\practicas HTML\Bootstrap\2daApi\2daApi\bin\Debug\net5.0\2daApi.exe
+c:\Users\emilo\OneDrive\Escritorio\practicas HTML\Bootstrap\2daApi\2daApi\bin\Debug\net5.0\2daApi.deps.json
+c:\Users\emilo\OneDrive\Escritorio\practicas HTML\Bootstrap\2daApi\2daApi\bin\Debug\net5.0\2daApi.runtimeconfig.json
+c:\Users\emilo\OneDrive\Escritorio\practicas HTML\Bootstrap\2daApi\2daApi\bin\Debug\net5.0\2daApi.runtimeconfig.dev.json
+C:\Users\emilo\OneDrive\Escritorio\practicas HTML\Bootstrap\2daApi\2daApi\bin\Debug\net5.0\2daApi.dll
+c:\Users\emilo\OneDrive\Escritorio\practicas HTML\Bootstrap\2daApi\2daApi\bin\Debug\net5.0\ref\2daApi.dll
+C:\Users\emilo\OneDrive\Escritorio\practicas HTML\Bootstrap\2daApi\2daApi\bin\Debug\net5.0\2daApi.pdb
+C:\Users\emilo\OneDrive\Escritorio\practicas HTML\Bootstrap\2daApi\2daApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\emilo\OneDrive\Escritorio\practicas HTML\Bootstrap\2daApi\2daApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\emilo\OneDrive\Escritorio\practicas HTML\Bootstrap\2daApi\2daApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\emilo\OneDrive\Escritorio\practicas HTML\Bootstrap\2daApi\2daApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\emilo\OneDrive\Escritorio\practicas HTML\Bootstrap\2daApi\2daApi\obj\Debug\net5.0\staticwebassets\2daApi.StaticWebAssets.Manifest.cache
+C:\Users\emilo\OneDrive\Escritorio\practicas HTML\Bootstrap\2daApi\2daApi\obj\Debug\net5.0\staticwebassets\2daApi.StaticWebAssets.xml
+C:\Users\emilo\OneDrive\Escritorio\practicas HTML\Bootstrap\2daApi\2daApi\obj\Debug\net5.0\scopedcss\bundle\2daApi.styles.css
+C:\Users\emilo\OneDrive\Escritorio\practicas HTML\Bootstrap\2daApi\2daApi\obj\Debug\net5.0\2daApi.RazorTargetAssemblyInfo.cache
+c:\Users\emilo\OneDrive\Escritorio\practicas HTML\Bootstrap\2daApi\2daApi\obj\Debug\net5.0\2daApi.csproj.CopyComplete
+C:\Users\emilo\OneDrive\Escritorio\practicas HTML\Bootstrap\2daApi\2daApi\obj\Debug\net5.0\2daApi.dll
+C:\Users\emilo\OneDrive\Escritorio\practicas HTML\Bootstrap\2daApi\2daApi\obj\Debug\net5.0\ref\2daApi.dll
+C:\Users\emilo\OneDrive\Escritorio\practicas HTML\Bootstrap\2daApi\2daApi\obj\Debug\net5.0\2daApi.pdb
+c:\Users\emilo\OneDrive\Escritorio\practicas HTML\Bootstrap\2daApi\2daApi\obj\Debug\net5.0\2daApi.genruntimeconfig.cache
+C:\Users\emilo\OneDrive\Escritorio\practicas HTML\2daApi_AccesoDatos\2daApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\emilo\OneDrive\Escritorio\practicas HTML\2daApi_AccesoDatos\2daApi\bin\Debug\net5.0\appsettings.json
+C:\Users\emilo\OneDrive\Escritorio\practicas HTML\2daApi_AccesoDatos\2daApi\bin\Debug\net5.0\2daApi.exe
+C:\Users\emilo\OneDrive\Escritorio\practicas HTML\2daApi_AccesoDatos\2daApi\bin\Debug\net5.0\2daApi.deps.json
+C:\Users\emilo\OneDrive\Escritorio\practicas HTML\2daApi_AccesoDatos\2daApi\bin\Debug\net5.0\2daApi.runtimeconfig.json
+C:\Users\emilo\OneDrive\Escritorio\practicas HTML\2daApi_AccesoDatos\2daApi\bin\Debug\net5.0\2daApi.runtimeconfig.dev.json
+C:\Users\emilo\OneDrive\Escritorio\practicas HTML\2daApi_AccesoDatos\2daApi\bin\Debug\net5.0\2daApi.dll
+C:\Users\emilo\OneDrive\Escritorio\practicas HTML\2daApi_AccesoDatos\2daApi\bin\Debug\net5.0\ref\2daApi.dll
+C:\Users\emilo\OneDrive\Escritorio\practicas HTML\2daApi_AccesoDatos\2daApi\bin\Debug\net5.0\2daApi.pdb
+C:\Users\emilo\OneDrive\Escritorio\practicas HTML\2daApi_AccesoDatos\2daApi\bin\Debug\net5.0\Humanizer.dll
+C:\Users\emilo\OneDrive\Escritorio\practicas HTML\2daApi_AccesoDatos\2daApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\emilo\OneDrive\Escritorio\practicas HTML\2daApi_AccesoDatos\2daApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\emilo\OneDrive\Escritorio\practicas HTML\2daApi_AccesoDatos\2daApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\emilo\OneDrive\Escritorio\practicas HTML\2daApi_AccesoDatos\2daApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\emilo\OneDrive\Escritorio\practicas HTML\2daApi_AccesoDatos\2daApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\emilo\OneDrive\Escritorio\practicas HTML\2daApi_AccesoDatos\2daApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\emilo\OneDrive\Escritorio\practicas HTML\2daApi_AccesoDatos\2daApi\bin\Debug\net5.0\Npgsql.dll
+C:\Users\emilo\OneDrive\Escritorio\practicas HTML\2daApi_AccesoDatos\2daApi\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\emilo\OneDrive\Escritorio\practicas HTML\2daApi_AccesoDatos\2daApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\emilo\OneDrive\Escritorio\practicas HTML\2daApi_AccesoDatos\2daApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\emilo\OneDrive\Escritorio\practicas HTML\2daApi_AccesoDatos\2daApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\emilo\OneDrive\Escritorio\practicas HTML\2daApi_AccesoDatos\2daApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\emilo\OneDrive\Escritorio\practicas HTML\2daApi_AccesoDatos\2daApi\obj\Debug\net5.0\2daApi.csprojAssemblyReference.cache
+C:\Users\emilo\OneDrive\Escritorio\practicas HTML\2daApi_AccesoDatos\2daApi\obj\Debug\net5.0\2daApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emilo\OneDrive\Escritorio\practicas HTML\2daApi_AccesoDatos\2daApi\obj\Debug\net5.0\2daApi.AssemblyInfoInputs.cache
+C:\Users\emilo\OneDrive\Escritorio\practicas HTML\2daApi_AccesoDatos\2daApi\obj\Debug\net5.0\2daApi.AssemblyInfo.cs
+C:\Users\emilo\OneDrive\Escritorio\practicas HTML\2daApi_AccesoDatos\2daApi\obj\Debug\net5.0\2daApi.csproj.CoreCompileInputs.cache
+C:\Users\emilo\OneDrive\Escritorio\practicas HTML\2daApi_AccesoDatos\2daApi\obj\Debug\net5.0\2daApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\emilo\OneDrive\Escritorio\practicas HTML\2daApi_AccesoDatos\2daApi\obj\Debug\net5.0\2daApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\emilo\OneDrive\Escritorio\practicas HTML\2daApi_AccesoDatos\2daApi\obj\Debug\net5.0\staticwebassets\2daApi.StaticWebAssets.Manifest.cache
+C:\Users\emilo\OneDrive\Escritorio\practicas HTML\2daApi_AccesoDatos\2daApi\obj\Debug\net5.0\staticwebassets\2daApi.StaticWebAssets.xml
+C:\Users\emilo\OneDrive\Escritorio\practicas HTML\2daApi_AccesoDatos\2daApi\obj\Debug\net5.0\scopedcss\bundle\2daApi.styles.css
+C:\Users\emilo\OneDrive\Escritorio\practicas HTML\2daApi_AccesoDatos\2daApi\obj\Debug\net5.0\2daApi.RazorTargetAssemblyInfo.cache
+C:\Users\emilo\OneDrive\Escritorio\practicas HTML\2daApi_AccesoDatos\2daApi\obj\Debug\net5.0\2daApi.csproj.CopyComplete
+C:\Users\emilo\OneDrive\Escritorio\practicas HTML\2daApi_AccesoDatos\2daApi\obj\Debug\net5.0\2daApi.dll
+C:\Users\emilo\OneDrive\Escritorio\practicas HTML\2daApi_AccesoDatos\2daApi\obj\Debug\net5.0\ref\2daApi.dll
+C:\Users\emilo\OneDrive\Escritorio\practicas HTML\2daApi_AccesoDatos\2daApi\obj\Debug\net5.0\2daApi.pdb
+C:\Users\emilo\OneDrive\Escritorio\practicas HTML\2daApi_AccesoDatos\2daApi\obj\Debug\net5.0\2daApi.genruntimeconfig.cache
+C:\Users\emilo\OneDrive\Escritorio\Apis\2daApi_AccesoDatos\2daApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\emilo\OneDrive\Escritorio\Apis\2daApi_AccesoDatos\2daApi\bin\Debug\net5.0\appsettings.json
+C:\Users\emilo\OneDrive\Escritorio\Apis\2daApi_AccesoDatos\2daApi\bin\Debug\net5.0\2daApi.exe
+c:\Users\emilo\OneDrive\Escritorio\Apis\2daApi_AccesoDatos\2daApi\bin\Debug\net5.0\2daApi.deps.json
+c:\Users\emilo\OneDrive\Escritorio\Apis\2daApi_AccesoDatos\2daApi\bin\Debug\net5.0\2daApi.runtimeconfig.json
+c:\Users\emilo\OneDrive\Escritorio\Apis\2daApi_AccesoDatos\2daApi\bin\Debug\net5.0\2daApi.runtimeconfig.dev.json
+C:\Users\emilo\OneDrive\Escritorio\Apis\2daApi_AccesoDatos\2daApi\bin\Debug\net5.0\2daApi.dll
+c:\Users\emilo\OneDrive\Escritorio\Apis\2daApi_AccesoDatos\2daApi\bin\Debug\net5.0\ref\2daApi.dll
+C:\Users\emilo\OneDrive\Escritorio\Apis\2daApi_AccesoDatos\2daApi\bin\Debug\net5.0\2daApi.pdb
+C:\Users\emilo\OneDrive\Escritorio\Apis\2daApi_AccesoDatos\2daApi\bin\Debug\net5.0\Humanizer.dll
+C:\Users\emilo\OneDrive\Escritorio\Apis\2daApi_AccesoDatos\2daApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\emilo\OneDrive\Escritorio\Apis\2daApi_AccesoDatos\2daApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\emilo\OneDrive\Escritorio\Apis\2daApi_AccesoDatos\2daApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\emilo\OneDrive\Escritorio\Apis\2daApi_AccesoDatos\2daApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\emilo\OneDrive\Escritorio\Apis\2daApi_AccesoDatos\2daApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\emilo\OneDrive\Escritorio\Apis\2daApi_AccesoDatos\2daApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\emilo\OneDrive\Escritorio\Apis\2daApi_AccesoDatos\2daApi\bin\Debug\net5.0\Npgsql.dll
+C:\Users\emilo\OneDrive\Escritorio\Apis\2daApi_AccesoDatos\2daApi\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\emilo\OneDrive\Escritorio\Apis\2daApi_AccesoDatos\2daApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\emilo\OneDrive\Escritorio\Apis\2daApi_AccesoDatos\2daApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\emilo\OneDrive\Escritorio\Apis\2daApi_AccesoDatos\2daApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\emilo\OneDrive\Escritorio\Apis\2daApi_AccesoDatos\2daApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\emilo\OneDrive\Escritorio\Apis\2daApi_AccesoDatos\2daApi\obj\Debug\net5.0\2daApi.csprojAssemblyReference.cache
+C:\Users\emilo\OneDrive\Escritorio\Apis\2daApi_AccesoDatos\2daApi\obj\Debug\net5.0\2daApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emilo\OneDrive\Escritorio\Apis\2daApi_AccesoDatos\2daApi\obj\Debug\net5.0\2daApi.AssemblyInfoInputs.cache
+C:\Users\emilo\OneDrive\Escritorio\Apis\2daApi_AccesoDatos\2daApi\obj\Debug\net5.0\2daApi.AssemblyInfo.cs
+C:\Users\emilo\OneDrive\Escritorio\Apis\2daApi_AccesoDatos\2daApi\obj\Debug\net5.0\2daApi.csproj.CoreCompileInputs.cache
+C:\Users\emilo\OneDrive\Escritorio\Apis\2daApi_AccesoDatos\2daApi\obj\Debug\net5.0\2daApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\emilo\OneDrive\Escritorio\Apis\2daApi_AccesoDatos\2daApi\obj\Debug\net5.0\2daApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\emilo\OneDrive\Escritorio\Apis\2daApi_AccesoDatos\2daApi\obj\Debug\net5.0\staticwebassets\2daApi.StaticWebAssets.Manifest.cache
+C:\Users\emilo\OneDrive\Escritorio\Apis\2daApi_AccesoDatos\2daApi\obj\Debug\net5.0\staticwebassets\2daApi.StaticWebAssets.xml
+C:\Users\emilo\OneDrive\Escritorio\Apis\2daApi_AccesoDatos\2daApi\obj\Debug\net5.0\scopedcss\bundle\2daApi.styles.css
+C:\Users\emilo\OneDrive\Escritorio\Apis\2daApi_AccesoDatos\2daApi\obj\Debug\net5.0\2daApi.RazorTargetAssemblyInfo.cache
+c:\Users\emilo\OneDrive\Escritorio\Apis\2daApi_AccesoDatos\2daApi\obj\Debug\net5.0\2daApi.csproj.CopyComplete
+C:\Users\emilo\OneDrive\Escritorio\Apis\2daApi_AccesoDatos\2daApi\obj\Debug\net5.0\2daApi.dll
+C:\Users\emilo\OneDrive\Escritorio\Apis\2daApi_AccesoDatos\2daApi\obj\Debug\net5.0\ref\2daApi.dll
+C:\Users\emilo\OneDrive\Escritorio\Apis\2daApi_AccesoDatos\2daApi\obj\Debug\net5.0\2daApi.pdb
+c:\Users\emilo\OneDrive\Escritorio\Apis\2daApi_AccesoDatos\2daApi\obj\Debug\net5.0\2daApi.genruntimeconfig.cache
